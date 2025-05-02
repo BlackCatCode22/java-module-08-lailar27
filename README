@@ -1,0 +1,9 @@
+Hey there! We have made it to the README file together!
+
+In the project folder, you will find the various codes which will ultimately allow you to input information as the user.
+
+In the RESTful API, I incorporated base code from Spring Boot with Java so you can interact with the chatbot I created.
+
+To run this application, simply follow the prompts when running the code. If there is an error, don't worry! The code will work around it!
+
+Unfortunately, I did not use any axternam APIs simply because the RESTful API was sufficient.
